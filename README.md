@@ -1,6 +1,6 @@
 ## FHQueue
 + Before you continue
-The API has been removed so this no longer works for it intended purposes. 
+The API has been removed so this no longer works for it intended purposes. If you're using this as an example please note that
 Grafana Cloud has depreciated Grafana Agent. Please refer to the new documentation. 
 
 + A Backend API scrapper to tracked map queue data.
