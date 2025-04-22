@@ -1,6 +1,10 @@
 ## FHQueue
++ Before you continue
+The API has been removed so this no longer works for it intended purposes. 
+Grafana Cloud has depreciated Grafana Agent. Please refer to the new documentation. 
+
 + A Backend API scrapper to tracked map queue data.
-Automatically scrape api and translate to prometheus metrics to be sent to Grafana Cloud for monitoring.
+Automatically scrape foxhole services api and push to prometheus metrics using Grafana Cloud for monitoring.
 
 ## Installation
 
